@@ -2,7 +2,7 @@
 layout: default
 title: "FastiQuran"
 description: "Lightweight, Ad-Free, and Always Free"
-image: "https://flagodna-developer.github.io/FastiShare/assets/fastishare-preview.png"
+image: ""
 permalink: /
 ---
 
