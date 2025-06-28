@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Editor.js</title>
+
+    <link rel="stylesheet" href="lib/style.css" />
+    <link rel="icon" type="image/x-icon" href="lib/logo.svg" />
+  </head>
+  <body>
+    <div class="app-container">
+      <!-- Editor Column -->
+      <div class="column editor-column">
+        <h1>Content Editor</h1>
+        <div class="button-group">
+          <button id="saveButton" class="action-button save">
+            Generate HTML
+          </button>
+          <button id="copyButton" class="action-button copy" disabled>
+            Copy HTML
+          </button>
+        </div>
+        <div id="editorjs"></div>
+      </div>
+
+      <!-- Preview Column -->
+      <div class="column preview-column">
+        <h1>HTML Preview</h1>
+        <div class="section-title">Output</div>
+        <div id="output-html">
+          Click 'Generate HTML' to see the HTML output here.
+        </div>
+      </div>
+
+      <div id="copyToast" class="copy-toast">Copied!</div>
+    </div>
+
+    <script src="lib/editor.js" defer></script>
+    <script src="lib/editor-header.js" defer></script>
+    <script src="lib/editor-list.js" defer></script>
+    <script src="lib/index.js" defer></script>
+  </body>
+</html>
