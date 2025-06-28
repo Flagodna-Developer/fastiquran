@@ -11,8 +11,7 @@ Get the latest version of FastiQuran for your device. Available on Windows, macO
 
 ### iOS (iPhone & iPad)
 ✅ **Minimum OS:** iOS 14.0+  
-🔗 [Page Download](/ios) (Direct Install)  
-🍎 [Page Download](https://apps.apple.com/...)
+🔗 [Page Download](/ios) (Direct Install)   
 
 ## 💻 Desktop Versions
 
