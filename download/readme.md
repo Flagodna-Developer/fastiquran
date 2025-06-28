@@ -6,26 +6,26 @@ Get the latest version of FastiQuran for your device. Available on Windows, macO
 
 ### Android
 ✅ **Minimum OS:** Android 8.0+  
-🔗 [Page Download](/downlaod/android/) (Direct Install)  
+🔗 [Page Download](/download/android/) (Direct Install)  
 📲 [Google Play Store](https://play.google.com/...) (Recommended)
 
 ### iOS (iPhone & iPad)
 ✅ **Minimum OS:** iOS 14.0+  
-🔗 [Page Download](/downlaod/ios/) (Direct Install)   
+🔗 [Page Download](/download/ios/) (Direct Install)   
 
 ## 💻 Desktop Versions
 
 ### Windows
 ✅ **Supports:** Windows 10/11 (64-bit & 32-bit)  
-📥 [Page Download](/downlaod/windows/)   
+📥 [Page Download](/download/windows/)   
 
 ### macOS
 ✅ **Supports:** Intel & Apple Silicon (M1/M2)  
-🍏 [Page Download](/downlaod/macos/)
+🍏 [Page Download](/download/macos/)
 
 ### Linux
 ✅ **Supports:** Ubuntu, Fedora, Debian, Arch  
-📦 [Page Download](/downlaod/linux/)   
+📦 [Page Download](/download/linux/)   
  
 
 ---
