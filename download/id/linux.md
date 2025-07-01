@@ -1,43 +1,50 @@
-# Unduhan Linux
+# 🐧 Unduhan Linux
 
-Selamat datang di rilis resmi Linux FastiQuran. Pilih versi di bawah ini untuk mengunduh atau melihat detailnya.
-
----
-
-## 🐧 Rilis Terbaru
-
-### [1.1.0](#1.1.0)
-
-<a id="1.1.0"></a>
-**Tanggal Rilis:** 16 Juni 2025
-
-- ✅ Menambahkan mode pembacaan offline
-
-- 🛠 Peningkatan respons UI
-
-- 🐞 Perbaikan bug dan peningkatan kinerja
-
-**Unduh:**
-
-- [AppImage](https://example.com/downloads/linux/fastiquran-1.2.0.AppImage)
-- [Deb](https://example.com/downloads/linux/fastiquran-1.2.0.deb)
+Selamat datang di rilis resmi Linux FastiQuran. Pilih versi di bawah ini untuk mengunduh atau melihat rinciannya.
 
 ---
 
-## Versi Sebelumnya
+## 🚀 Rilis Terbaru
 
 ### [1.0.0](#1.0.0)
 
 <a id="1.0.0"></a>
-**Tanggal Rilis:** 10 Maret 2025
+**Tanggal Rilis: ** 01 Juni 2025
 
 - 🎉 Rilis publik pertama
-- Fitur inti: Pencarian, Bacaan, Pengingat Harian
+- ✅ Sepenuhnya bebas iklan dan gratis
+- 📖 Teks Alquran lengkap dengan tulisan Arab yang jelas
+- 🔖 Penanda pintar
+- 🔍 Pencarian lanjutan
+- 🎧 Pengulangan audio berkualitas tinggi
+- 🧭 Kompas - Alkitab yang akurat
+- 📿 Koleksi Dhikr & Duas
+- 🎨 Tema & fonta yang dapat disesuaikan
+- ⚙️ Offline-siap dan ringan
 
 **Unduh:**
 
-- [AppImage](https://example.com/downloads/linux/fastiquran-1.0.0.AppImage)
+- [.deb](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.0/fastiquran-1.0.0+1-linux.deb)
+- [.rpm](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.0/fastiquran-1.0.0+1-linux.rpm)
+
+- [.appimage](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.0/fastiquran-1.0.0+1-linux.AppImage)
 
 ---
 
-Butuh bantuan? Kunjungi [Halaman Dukungan](https://flagodna.com/contact).
+## 📜 Versi Sebelumnya
+
+### [0.9.0](#0.9.0)
+
+<a id="0.9.0"></a>
+**Tanggal Rilis:** 15 Mei 2025
+
+- 🛠️ Pembangunan awal
+- Fitur inti:
+  - Tampilan teks Quran
+  - Pemutaran audio dasar
+  - Sistem penanda awal
+  - UI Prototipe
+
+---
+
+Butuh bantuan pemasangan? Kunjungi [Halaman Dukungan] (https://flagodna.com/contact) .
