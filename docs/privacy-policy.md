@@ -62,4 +62,4 @@ Any updates to this Privacy Policy will be posted here on this page. We encourag
 
 ## ❓ Questions?
 
-If you have any questions about this Privacy Policy or FastiQuran's data practices, please feel free to contact us at: [fastiquran@gmail.com](mailto:fastiquran@gmail.com)
+If you have any questions about this Privacy Policy or FastiQuran's data practices, please feel free to contact us at: [fastiquran@outlook.com](mailto:fastiquran@outlook.com)

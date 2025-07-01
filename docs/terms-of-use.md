@@ -47,7 +47,7 @@ By using FastiQuran ("the App"), you agree to these terms. If you disagree with 
 
 ## 8. 📩 Contact
 
-Questions or concerns regarding these Terms of Use? Please contact us at: [fastiquran@gmail.com](mailto:fastiquran@gmail.com)
+Questions or concerns regarding these Terms of Use? Please contact us at: [fastiquran@outlook.com](mailto:fastiquran@outlook.com)
 
 ---
 

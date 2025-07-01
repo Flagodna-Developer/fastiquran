@@ -112,7 +112,7 @@ Enjoy a pure, distraction-free spiritual experience without any advertisements.
 
 Need help or want to share feedback?
 
-- 📧 **Email**: fastiquran@gmail.com
+- 📧 **Email**: fastiquran@outlook.com
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Flagodna-Developer/fastiquran/issues)
 
 ## 🙏 Acknowledgments
