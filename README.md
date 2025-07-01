@@ -2,7 +2,7 @@
 layout: default
 title: "FastiQuran"
 description: "Free · No Ads · Cross-Platform. Just Quran for You"
-image: ""
+image: "https://flagodna-developer.github.io/fastiquran/screenshot/desktop.png"
 permalink: /
 ---
 
