@@ -63,7 +63,7 @@
 ---
 
 📬 **Questions or contributions?**  
-Email: `fastiquran@gmail.com
+Email: `fastiquran@outlook.com
 
 ---
 

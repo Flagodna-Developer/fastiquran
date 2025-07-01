@@ -78,7 +78,7 @@ To effectively learn and retain these phrases:
 ---
 
 📬 **Questions or contributions?**  
-[Email Us](mailto:fastiquran@gmail.com)  
+[Email Us](mailto:fastiquran@outlook.com)  
 [GitHub Repository](https://github.com/Flagodna-Developer/fastiquran/issues)
 
 **May Allah bless your journey in learning the language of the Qur'an.**

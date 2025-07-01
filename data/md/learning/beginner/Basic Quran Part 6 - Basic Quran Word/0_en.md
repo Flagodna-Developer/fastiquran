@@ -103,7 +103,7 @@ _Inna Allāha Ghafūrun Raḥīm_
 📬 **Questions or contributions?**  
 [\n][\n]
 
-[button type="email" onclick="fastiquran@gmail.com"]Email Us[/button]
+[button type="email" onclick="fastiquran@outlook.com"]Email Us[/button]
 
 [button type="url" onclick="https://github.com/Flagodna-Developer/fastiquran/issues"]GitHub Repository[/button]
 

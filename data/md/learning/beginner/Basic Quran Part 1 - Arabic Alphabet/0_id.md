@@ -245,7 +245,7 @@ Pelajari cara melafalkan setiap huruf Arab dengan benar sesuai dengan aturan Al-
 
 📬 **Pertanyaan atau kontribusi?**  
 [\n][\n]
-[button type="email" onclick="fastiquran@gmail.com"]Email Kami[/button]
+[button type="email" onclick="fastiquran@outlook.com"]Email Kami[/button]
 
 [button type="url" onclick="https://github.com/Flagodna-Developer/fastiquran/issues"]GitHub Repository[/button]
 
