@@ -1,0 +1,314 @@
+{
+  "common": {
+    "close": "Tutup",
+    "to": "hingga",
+    "rename": "Ubah Nama",
+    "delete": "Hapus",
+    "cancel": "Batal",
+    "create": "Buat Baru",
+    "of": "dari",
+    "save": "Simpan",
+    "add": "Tambah",
+    "retry": "Coba Lagi",
+    "unknown": "Tidak Diketahui",
+    "copied": "Teks berhasil disalin!",
+    "not_now": "Nanti Saja"
+  },
+  "interaction": {
+    "title": "Bantu Kami Lebih Baik",
+    "feedback": "Kirim Masukan",
+    "support": "Dukung Kami",
+    "share": "Bagikan Aplikasi",
+    "dont_show_again": "Jangan Tampilkan Lagi",
+    "share_message": "Coba lihat aplikasi keren ini: {0}",
+    "url_error": "Maaf, tidak bisa membuka tautan",
+    "error": "Maaf, terjadi kesalahan",
+    "share_error": "Maaf, tidak bisa membagikan aplikasi"
+  },
+  "settings": {
+    "dark_mode": "Mode Gelap",
+    "theme_color": "Warna Tema",
+    "language": "Bahasa Aplikasi",
+    "arabic_font_size": "Ukuran Font Arab",
+    "translation_font_size": "Ukuran Font Terjemahan",
+    "translation": "Terjemahan",
+    "arabic_font": "Font Arab",
+    "show_transliteration": "Tampilkan Transliterasi",
+    "show_translation": "Tampilkan Terjemahan",
+    "arabic_only": "Hanya Arab",
+    "translation_only": "Hanya Terjemahan",
+    "arabic_number": "Angka Arab"
+  },
+  "menu_app": {
+    "settings": "Pengaturan",
+    "memorized": "Hafalan",
+    "duas": "Doa",
+    "learning": "Belajar",
+    "dhikr": "Dzikir",
+    "qibla": "Arah Kiblat",
+    "bookmarks": "Disimpan",
+    "search": "Pencarian",
+    "share": "Bagikan",
+    "support": "Dukungan",
+    "about": "Tentang",
+    "updates": "Pembaruan"
+  },
+  "learning": {
+    "error_load": "Maaf, terjadi kesalahan saat memuat materi",
+    "failed_refresh": "Gagal menyegarkan, silakan coba lagi",
+    "reload": "Muat Ulang Materi",
+    "search": "Cari Materi...",
+    "select_to_view_1": "Pilih bagian untuk melihat detailnya",
+    "select_to_view_2": "Pilih bagian dari daftar",
+    "language": "Bahasa",
+    "not_found": "Materi tidak ditemukan",
+    "try_different_keyword": "Coba gunakan filter atau kata kunci lain",
+    "error_load_content": "Maaf, terjadi kesalahan saat memuat konten",
+    "not_available": "Konten belum tersedia",
+    "error_open_link": "Maaf, tidak dapat membuka tautan",
+    "unsupported_link": "Jenis tautan ini tidak didukung",
+    "error_opening_link": "Maaf, terjadi kesalahan saat membuka tautan"
+  },
+  "dhikr": {
+    "title": "Tasbih & Dzikir",
+    "search": "Cari Urutan Dzikir...",
+    "select_to_view": "Pilih urutan Dzikir untuk melihat detail",
+    "not_found": "Urutan Dzikir tidak ditemukan",
+    "try_again": "Silakan coba cari lagi",
+    "completed_sequence": "Selamat! Anda telah menyelesaikan seluruh urutan.",
+    "modal_complete_title": "Dzikir Selesai",
+    "completed_name": "Anda telah menyelesaikan",
+    "process_next": "Lanjut ke Dzikir berikutnya:",
+    "completed_all_sequence": "Semua Dzikir dalam urutan ini telah selesai!",
+    "stay": "Tetap di sini",
+    "next": "Berikutnya",
+    "finish": "Selesaikan Urutan",
+    "congrats": "Selamat! Anda telah menyelesaikan urutan.",
+    "completed": "Urutan Selesai",
+    "restart": "Mulai Ulang",
+    "details": "Detail",
+    "invalid": "Nomor urutan Dzikir tidak valid",
+    "no_recite": "Urutan Dzikir ini belum memiliki bacaan.",
+    "select_different": "Silakan pilih urutan lain."
+  },
+  "qibla": {
+    "title": "Fitur Kiblat Masih Dikembangkan",
+    "message": "Fitur penunjuk arah kiblat sedang dalam tahap pengembangan. Apakah Anda ingin membukanya di Google Qibla melalui web?",
+    "modal_name": "Buka Google Qibla"
+  },
+  "bookmark": {
+    "title_modal_1": "Simpan ke Folder",
+    "title_modal_2": "Folder Ayat Tersimpan",
+    "not_found": "Tidak ada folder ditemukan",
+    "saved_success": "Bookmark berhasil disimpan",
+    "saved_failed": "Gagal menyimpan bookmark",
+    "new_folder": "Folder Baru",
+    "rename_folder": "Ubah Nama Folder",
+    "folder_name": "Masukkan nama folder baru",
+    "delete_folder": "Hapus Folder",
+    "confirm_delete_folder": "Apakah Anda yakin ingin menghapus folder ini beserta semua ayat yang disimpan?",
+    "success_delete_folder": "Folder berhasil dihapus",
+    "max_created_folder": "Anda hanya dapat membuat hingga {} folder ayat",
+    "not_found_ayah": "Tidak ada ayat tersimpan di folder ini",
+    "saved_on": "Disimpan pada",
+    "delete_bookmark": "Hapus Ayat Tersimpan",
+    "delete_bookmark_success": "Ayat berhasil dihapus dari simpanan"
+  },
+  "memorization": {
+    "title": "Hafalan",
+    "search": "Cari Hafalan...",
+    "select_to_view": "Pilih hafalan untuk melihat detailnya",
+    "tooltip": "Tambahkan entri hafalan baru",
+    "error_load": "Maaf, terjadi kesalahan saat memuat hafalan",
+    "not_found": "Tidak ada hafalan ditemukan",
+    "no_result": "Tidak ada hasil untuk “{}”. Coba gunakan kata kunci lain.",
+    "add_first": "Tambahkan hafalan pertama Anda",
+    "add_new": "Tambah Hafalan Baru",
+    "new_name": "Nama Hafalan",
+    "new_surah": "Pilih Surah",
+    "info_select_surah": "Silakan pilih surah",
+    "new_ayah_start": "Awal Ayat",
+    "info_select_ayah_start": "Silakan pilih ayat awal",
+    "new_ayah_end": "Akhir Ayat",
+    "info_select_ayah_end_1": "Silakan pilih ayat akhir",
+    "info_select_ayah_end_2": "Ayat akhir harus sama atau lebih besar dari ayat awal",
+    "rename_memorization": "Ubah Nama Hafalan",
+    "enter_rename": "Masukkan nama baru",
+    "delete_memorization": "Hapus Hafalan",
+    "confirm_delete_memorization": "Apakah Anda yakin ingin menghapus hafalan ini?",
+    "success_delete_memorization": "Hafalan berhasil dihapus",
+    "success_change_range": "Rentang berhasil diperbarui",
+    "failed_change_range": "Gagal memperbarui rentang",
+    "change_data": "Ubah Data",
+    "change_range": "Ubah Rentang Hafalan",
+    "apply": "Terapkan"
+  },
+  "search": {
+    "input_search": "Cari Al-Qur'an...",
+    "filter_by": "Filter berdasarkan Surat",
+    "loading_surah": "Sedang memuat Surat...",
+    "error_loading_surah": "Maaf, terjadi kesalahan saat memuat Surat",
+    "search_quran": "Cari terjemahan Al-Qur'an",
+    "search_no_result": "Tidak ditemukan hasil untuk",
+    "try_different_keyword": "Coba gunakan kata kunci lain atau periksa ejaan",
+    "end_result": "Akhir hasil pencarian",
+    "translation": "✍️ Terjemahan:",
+    "footnotes": "📝 Catatan Kaki:"
+  },
+  "about": {
+    "title": "Tentang FastiQuran",
+    "curr_version": "Versi Saat Ini",
+    "what_is_fastiquran": "🌟 Apa itu FastiQuran?",
+    "what_is_fastiquran_1": "FastiQuran bukan sekadar pembaca Al-Qur'an — ini adalah sahabat pribadi Anda untuk tumbuh secara rohani. Dirancang dengan sederhana namun kuat, FastiQuran membantu Anda membaca, mempelajari, dan mengamalkan Al-Qur'an dalam keseharian. Baik untuk mencari petunjuk, menghafal ayat, atau berdzikir setiap hari, FastiQuran siap mendampingi perjalanan Anda.",
+    "features": "✨ Fitur Utama",
+    "features_1": "Penanda",
+    "features_2": "Pencarian Lanjutan",
+    "features_3": "Hafalan",
+    "features_4": "Dzikir & Doa Harian",
+    "features_5": "Konten Pembelajaran",
+    "features_6": "Penunjuk Arah Kiblat",
+    "features_7": "Dapat Disesuaikan",
+    "features_8": "Pengaturan Fleksibel",
+    "features_9": "Tampilan Multi-Layar",
+    "features_10": "Bebas Iklan Selamanya",
+    "why_exist": "❤️ Mengapa FastiQuran Ada?",
+    "why_exist_1": "Untuk menghadirkan pengalaman membaca Al-Qur'an yang damai dan bebas gangguan.",
+    "why_exist_2": "Untuk membantu pengguna segala usia membangun kebiasaan membaca, menghafal, dan memahami Al-Qur'an setiap hari.",
+    "why_exist_3": "Untuk menyediakan alat-alat canggih seperti pencarian, penanda, dan modul pembelajaran — semuanya dalam satu aplikasi sederhana.",
+    "why_exist_4": "Untuk mendukung pengguna di seluruh dunia dengan fitur-fitur yang dapat disesuaikan dan desain yang ringan.",
+    "maintainers": "🙋 Pengelola",
+    "maintainers_1": "Pembuat & Pengelola",
+    "quick_links": "📌 Tautan Cepat",
+    "quick_links_1_a": "Beri Penilaian untuk Aplikasi Kami",
+    "quick_links_1_b": "Bantu kami berkembang melalui umpan balik Anda",
+    "quick_links_2_a": "Kunjungi Situs Web Kami",
+    "quick_links_2_b": "Pelajari lebih lanjut tentang produk kami",
+    "quick_links_3_a": "Halaman GitHub",
+    "quick_links_3_b": "Lihat situs proyek di GitHub Pages",
+    "quick_links_4_a": "Repositori GitHub",
+    "quick_links_4_b": "Telusuri atau kontribusikan ke kode sumber",
+    "quick_links_5_a": "Versi OS Lain",
+    "quick_links_5_b": "Gunakan FastiQuran di Perangkat Apa Pun",
+    "made_with": "Dibuat dengan ❤️ untuk ",
+    "muslim_ummah": "Umat Muslim",
+    "by": " oleh ",
+    "email_title": "Salam dari Aplikasi FastiQuran"
+  },
+  "duas": {
+    "search": "Cari Doa...",
+    "select_to_view": "Pilih doa untuk melihat detailnya",
+    "not_found": "Doa tidak ditemukan",
+    "try_again": "Coba cari lagi",
+    "share": {
+      "reference": "📚 Referensi",
+      "share_via": "🕌 Dibagikan lewat Aplikasi FastiQuran",
+      "about_fastishare": "🌟 Gratis · Bebas Iklan · Lintas Platform · Hanya Quran untuk Anda",
+      "success": "Doa berhasil dibagikan",
+      "failed": "Berbagi tidak didukung di OS ini. Data disalin ke clipboard"
+    },
+    "transliteration": "Transliterasi",
+    "translation": "Terjemahan",
+    "reference": "Referensi"
+  },
+  "share": {
+    "app": "🌐 FastiQuran - Gratis · Bebas Iklan · Lintas Platform. Hanya Quran untuk Anda \n \n📱 Tersedia di semua perangkat \n🆓 100% Gratis - Sekarang dan Selamanya \n🚫 Bebas Iklan - Pengalaman Membaca Murni 👍 Mudah Digunakan - Untuk Semua Usia \n \n⚡ Ringan & Cepat \n🕋 Sempurna untuk Ibadah Harian \n📖 Quran Lengkap dengan Terjemahan \n \n✨ Kenapa memilih FastiQuran? \n- 🎨 Antarmuka bersih dan bebas gangguan \n- 🧑‍💻 Mudah digunakan oleh siapa saja \n- 🏆 Fitur premium tanpa biaya \n \n⬇️ Unduh sekarang: https://flagodna-developer.github.io/fastiquran/ \n \n🤲 Bagikan hadiah ini dengan komunitas Anda!",
+    "title": "Bagikan Aplikasi",
+    "message": "Sebarkan kabar tentang FastiQuran!",
+    "copy": "Salin Tautan",
+    "more": "Opsi Lainnya",
+    "error_whatsapp": "WhatsApp tidak terpasang",
+    "failed_whatsapp": "Gagal berbagi lewat WhatsApp",
+    "failed_copy": "Gagal menyalin ke clipboard",
+    "failed_share": "Gagal membagikan"
+  },
+  "support": {
+    "title": "Dukung Kami!",
+    "message": "Jika Anda menikmati menggunakan aplikasi ini, pertimbangkan untuk mendukung kami di SociaBuzz. Dukungan Anda membantu kami terus berkembang dan meningkatkan layanan.",
+    "modal_name": "Dukung Lewat SociaBuzz"
+  },
+  "share_ayah": {
+    "subject": "Ayat Al-Quran",
+    "shared": "Ayat berhasil dibagikan!",
+    "message": "🕌 Dibagikan lewat FastiQuran – Gratis · Bebas Iklan · Lintas Platform. Hanya Al-Quran untuk Anda.\n🌐 https://flagodna-developer.github.io/fastiquran/",
+    "error_share": "Berbagi tidak didukung di OS ini. Data disalin ke clipboard",
+    "header": "Lihat aplikasi Al-Quran yang luar biasa ini!",
+    "subject_link": "Aplikasi Al-Quran",
+    "app_link": "Tautan aplikasi berhasil dibagikan!"
+  },
+  "footnotes": {
+    "title": "Catatan kaki",
+    "read_more": " Selengkapnya"
+  },
+  "home": {
+    "modal_ayah": {
+      "title": "Pilih Ayat",
+      "search_surah": "Cari Surat..."
+    },
+    "app_bar": {
+      "subtitle": "Gratis · Tanpa Iklan · Multi-Platform. Hanya Al-Quran untuk Anda",
+      "action_button": {
+        "saved": "Disimpan",
+        "search": "Cari",
+        "about": "Tentang",
+        "menu": "Menu",
+        "surah": "Surat",
+        "ayah": "Ayat",
+        "setting": "Pengaturan"
+      }
+    },
+    "showcase": {
+      "main_menu": {
+        "title": "Menu Utama",
+        "desc": "Akses fitur lainnya"
+      },
+      "list_ayah": {
+        "title": "Daftar Ayat",
+        "desc": "Pilih ayat yang diinginkan"
+      },
+      "list_surah": {
+        "title": "Pilih Surah",
+        "desc": "Ganti Surah saat ini"
+      },
+      "search": {
+        "title": "Cari Al-Quran",
+        "desc": "Cari kata atau frasa apa pun"
+      },
+      "filter_ayah": {
+        "title": "Filter Ayat",
+        "desc": "Ketuk untuk memilih cara memfilter ayat"
+      },
+      "settings": {
+        "title": "Pengaturan Aplikasi",
+        "desc": "Buka untuk menyesuaikan pengaturan"
+      },
+      "ayah_option": {
+        "title": "Ketuk atau tekan lama untuk membuka Aksi Cepat",
+        "desc": "Ketuk titik (:) untuk membuka Aksi Cepat"
+      }
+    },
+    "error": {
+      "surah": "Terjadi kesalahan saat memuat Surah"
+    },
+    "not_found": {
+      "surah": "Surah tidak ditemukan",
+      "info_search": "Coba cari dengan nama atau nomor (misalnya: Baqarah atau 2)"
+    },
+    "quran_view": {
+      "modal_filter_ayah": {
+        "title": "Filter Ayat",
+        "start_ayah": "Ayat Awal",
+        "info_1_start_ayah": "Silakan masukkan ayat awal",
+        "info_2_start_ayah": "Masukkan angka ≥ 1",
+        "end_ayah": "Ayat Akhir",
+        "clear_filter": "Bersihkan Filter",
+        "apply_filter": "Terapkan Filter",
+        "showing_count": "Menampilkan ayat"
+      },
+      "copy_all": "Salin Semua",
+      "copy_all_text": "Semua teks berhasil disalin ke clipboard!",
+      "not_found": {
+        "null_ayah": "Tidak ada ayat yang ditemukan untuk surah ini."
+      }
+    }
+  }
+}

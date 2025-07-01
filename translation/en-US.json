@@ -1,0 +1,315 @@
+{
+  "common": {
+    "close": "Close",
+    "rename": "Rename",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "create": "Create",
+    "save": "Save",
+    "to": "to",
+    "of": "of",
+    "add": "Add",
+    "retry": "Try Again",
+    "unknown": "Unknown",
+    "failed_image": "Image couldn't load",
+    "copied": "Copied!",
+    "not_now": "Maybe Later"
+  },
+  "interaction": {
+    "title": "We'd love your thoughts!",
+    "feedback": "Send Feedback",
+    "support": "Support Our Work",
+    "share": "Share the App",
+    "dont_show_again": "Don't Show Again",
+    "share_message": "Check out this great app: {0}",
+    "url_error": "Sorry, couldn't open the link",
+    "error": "Oops! Something went wrong",
+    "share_error": "Couldn't share the app"
+  },
+  "settings": {
+    "dark_mode": "Dark Mode",
+    "theme_color": "App Theme Color",
+    "language": "App Language",
+    "arabic_font_size": "Arabic Font Size",
+    "translation_font_size": "Translation Font Size",
+    "translation": "Translation",
+    "arabic_font": "Arabic Font Style",
+    "show_transliteration": "Show Transliteration",
+    "show_translation": "Show Translation",
+    "arabic_only": "Arabic Only",
+    "translation_only": "Translation Only",
+    "arabic_number": "Arabic Number Style"
+  },
+  "menu_app": {
+    "settings": "Settings",
+    "memorized": "Memorized",
+    "duas": "Duas",
+    "learning": "Learning",
+    "dhikr": "Dhikr",
+    "qibla": "Qibla Finder",
+    "bookmarks": "Bookmarks",
+    "search": "Search",
+    "share": "Share App",
+    "support": "Support Us",
+    "about": "About App",
+    "updates": "Check Updates"
+  },
+  "bookmark": {
+    "title_modal_1": "Save to Folder",
+    "title_modal_2": "Saved Ayah Folders",
+    "not_found": "No folders yet",
+    "saved_success": "Bookmark saved!",
+    "saved_failed": "Couldn't save bookmark",
+    "new_folder": "Create New Folder",
+    "rename_folder": "Rename Folder",
+    "folder_name": "Enter new folder name",
+    "delete_folder": "Delete Folder",
+    "confirm_delete_folder": "Delete this folder and all its ayahs?",
+    "success_delete_folder": "Folder deleted",
+    "max_created_folder": "You can create up to {} folders",
+    "not_found_ayah": "No saved ayahs here yet",
+    "saved_on": "Saved on",
+    "delete_bookmark": "Delete Saved Ayah",
+    "delete_bookmark_success": "Ayah deleted"
+  },
+  "memorization": {
+    "title": "My Memorization",
+    "search": "Search Your Memorization...",
+    "select_to_view": "Choose one to see details",
+    "tooltip": "Add New Memorization",
+    "error_load": "Couldn't load memorization",
+    "not_found": "No memorization yet",
+    "no_result": "No results for “{}”. Try another term.",
+    "add_first": "Add your first memorization",
+    "add_new": "New Memorization",
+    "new_name": "Memorization Name",
+    "new_surah": "Select Surah",
+    "info_select_surah": "Please choose a Surah",
+    "new_ayah_start": "Start Ayah",
+    "info_select_ayah_start": "Please choose a start ayah",
+    "new_ayah_end": "End Ayah",
+    "info_select_ayah_end_1": "Please choose an end ayah",
+    "info_select_ayah_end_2": "End ayah must be after start ayah",
+    "rename_memorization": "Rename Memorization",
+    "enter_rename": "Enter new name",
+    "delete_memorization": "Delete Memorization",
+    "confirm_delete_memorization": "Are you sure you want to delete this?",
+    "success_delete_memorization": "Memorization deleted",
+    "success_change_range": "Range updated",
+    "failed_change_range": "Couldn't update",
+    "change_data": "Edit Memorization",
+    "change_range": "Update Ayah Range",
+    "apply": "Apply Changes"
+  },
+  "search": {
+    "input_search": "Search Quran...",
+    "filter_by": "Filter by Surah",
+    "loading_surah": "Loading...",
+    "error_loading_surah": "Error loading Surahs",
+    "search_quran": "Search Quran translations",
+    "search_no_result": "No results for",
+    "try_different_keyword": "Try different words or check spelling",
+    "end_result": "That's all!",
+    "translation": "✍️ Translation:",
+    "footnotes": "📝 Notes:"
+  },
+  "about": {
+    "title": "About FastiQuran",
+    "curr_version": "Current Version",
+    "what_is_fastiquran": "🌟 Welcome to FastiQuran",
+    "what_is_fastiquran_1": "FastiQuran isn’t just a Quran app—it’s your spiritual companion. Designed for simplicity and depth, it helps you connect with the Quran effortlessly. Whether you're reading, memorizing, or reflecting, FastiQuran supports every step of your journey.",
+    "features": "✨ Why You’ll Love It",
+    "features_1": "Bookmarks",
+    "features_2": "Advanced Search",
+    "features_3": "Memorization",
+    "features_4": "Dhikr & Duas",
+    "features_5": "Learning",
+    "features_6": "Qibla Finder",
+    "features_7": "Custom Themes",
+    "features_8": "Flexible Settings",
+    "features_9": "Multi-Device",
+    "features_10": "No Ads",
+    "why_exist": "❤️ Our Mission",
+    "why_exist_1": "To create a serene, distraction-free space for the Quran",
+    "why_exist_2": "To help you build meaningful daily Quran habits",
+    "why_exist_3": "To combine powerful tools with simplicity",
+    "why_exist_4": "To serve the global Muslim community with care",
+    "maintainers": "🙌 Behind FastiQuran",
+    "maintainers_1": "Creator & Maintainer",
+    "quick_links": "🔗 Explore More",
+    "quick_links_1_a": "Rate the App",
+    "quick_links_1_b": "Your feedback helps us grow",
+    "quick_links_2_a": "Official Website",
+    "quick_links_2_b": "Discover more about our vision",
+    "quick_links_3_a": "GitHub Project",
+    "quick_links_3_b": "See how it’s built",
+    "quick_links_4_a": "Contribute",
+    "quick_links_4_b": "Help improve FastiQuran",
+    "quick_links_5_a": "Get on Other Devices",
+    "quick_links_5_b": "Available everywhere you need it",
+    "made_with": "Crafted with ❤️ for the ",
+    "muslim_ummah": "Muslim Ummah",
+    "by": " by ",
+    "email_title": "✨ Message from FastiQuran Team"
+  },
+  "duas": {
+    "search": "Search Duas...",
+    "select_to_view": "Select a Dua to view its details",
+    "not_found": "Dua not found",
+    "try_again": "Try searching again",
+    "share": {
+      "reference": "📚 Reference",
+      "share_via": "🕌 Shared via FastiQuran App",
+      "about_fastishare": "🌟 Free · No Ads · Cross-Platform · Just Quran for You",
+      "success": "Dua shared successfully!",
+      "failed": "Sharing not supported. Copied to clipboard."
+    },
+    "transliteration": "Transliteration",
+    "translation": "Translation",
+    "reference": "Reference"
+  },
+  "dhikr": {
+    "title": "Tasbeeh & Dhikr",
+    "search": "Search dhikr sequences...",
+    "select_to_view": "Choose a dhikr to view its details",
+    "not_found": "No dhikr sequence found",
+    "try_again": "Please try searching again",
+    "completed_sequence": "Well done! You've completed this sequence.",
+    "modal_complete_title": "Dhikr Finished!",
+    "completed_name": "You’ve completed",
+    "process_next": "Ready for the next dhikr?",
+    "completed_all_sequence": "You’ve completed all the dhikr in this series!",
+    "stay": "Stay on this page",
+    "next": "Next",
+    "finish": "Finish Sequence",
+    "congrats": "Well done! You've finished the sequence.",
+    "completed": "All Done!",
+    "restart": "Start Over",
+    "details": "View Details",
+    "invalid": "Oops! Something went wrong",
+    "no_recite": "There are no recitations in this sequence.",
+    "select_different": "Please choose a different sequence"
+  },
+  "learning": {
+    "error_load": "Sorry, we couldn't load the lessons",
+    "failed_refresh": "Refresh didn’t work — please try again",
+    "reload": "Reload the lessons",
+    "search": "Search for lessons...",
+    "select_to_view_1": "Tap a part to view the lesson details",
+    "select_to_view_2": "Choose a part from the list",
+    "language": "Language",
+    "not_found": "No lessons found yet",
+    "try_different_keyword": "Try adjusting the filters or keywords",
+    "error_load_content": "Oops! Couldn't load the content",
+    "not_available": "No content is currently available",
+    "error_open_link": "We couldn’t open the link",
+    "unsupported_link": "This link type isn’t supported",
+    "error_opening_link": "Something went wrong when opening the link"
+  },
+  "qibla": {
+    "title": "Qibla Feature Coming Soon",
+    "message": "Our Qibla direction finder is still in development. Would you like to open Google Qibla on the web instead?",
+    "modal_name": "Open Google Qibla"
+  },
+  "share": {
+    "app": "🌐 FastiQuran - Free · No Ads · Cross-Platform. Just Quran for You \n \n📱 Available on all devices \n🆓 100% Free - Always \n🚫 No Ads - Just Pure Reading 👍 Easy to Use - For Everyone \n \n⚡ Fast & Lightweight \n🕋 Perfect for Daily Worship \n📖 Complete Quran with Translations \n \n✨ Why choose FastiQuran? \n- 🎨 Clean, distraction-free design \n- 🧑‍💻 Simple for everyone \n- 🏆 Premium features for free \n \n⬇️ Get it now: https://flagodna-developer.github.io/fastiquran/ \n \n🤲 Share this gift with your community!",
+    "title": "Share This App",
+    "message": "Help spread the word about FastiQuran!",
+    "copy": "Copy Link",
+    "more": "More Options",
+    "error_whatsapp": "WhatsApp isn't installed",
+    "failed_whatsapp": "Couldn't share on WhatsApp",
+    "failed_copy": "Couldn't copy the link",
+    "failed_share": "Sharing didn’t work"
+  },
+  "support": {
+    "title": "Support Our Work",
+    "message": "If you enjoy using this app, please consider supporting us on SociaBuzz. Your kindness helps us keep making it better for everyone!",
+    "modal_name": "Support on SociaBuzz"
+  },
+  "share_ayah": {
+    "subject": "Quran Ayah",
+    "shared": "Ayah shared successfully!",
+    "message": "🕌 Shared via FastiQuran – Free · No Ads · Cross-Platform. Just Quran for You.\n🌐 https://flagodna-developer.github.io/fastiquran/",
+    "error_share": "Sharing isn’t supported on this device. Link copied to clipboard instead.",
+    "header": "Discover this beautiful Quran app!",
+    "subject_link": "Quran App",
+    "app_link": "Link to the app shared!"
+  },
+  "footnotes": {
+    "title": "Footnotes",
+    "read_more": "Read more details"
+  },
+  "home": {
+    "modal_ayah": {
+      "title": "Choose an Ayah",
+      "search_surah": "Search for a Surah..."
+    },
+    "app_bar": {
+      "subtitle": "Free · No Ads · Cross-Platform. Just Quran for You",
+      "action_button": {
+        "saved": "Saved",
+        "search": "Search",
+        "about": "About App",
+        "menu": "Menu",
+        "surah": "Surah",
+        "ayah": "Ayah",
+        "setting": "Settings"
+      }
+    },
+    "showcase": {
+      "main_menu": {
+        "title": "Main Menu",
+        "desc": "Explore more features"
+      },
+      "list_ayah": {
+        "title": "Ayah List",
+        "desc": "Choose an Ayah to view"
+      },
+      "list_surah": {
+        "title": "Surah Selector",
+        "desc": "Pick or change the Surah"
+      },
+      "search": {
+        "title": "Search Quran",
+        "desc": "Find any word or phrase"
+      },
+      "filter_ayah": {
+        "title": "Filter Ayahs",
+        "desc": "Tap to choose how you want to filter"
+      },
+      "settings": {
+        "title": "App Settings",
+        "desc": "Adjust your preferences"
+      },
+      "ayah_option": {
+        "title": "Tap or hold for Quick Actions",
+        "desc": "Tap the dot (:) to see options"
+      }
+    },
+    "error": {
+      "surah": "Sorry, we couldn't load the Surah"
+    },
+    "not_found": {
+      "surah": "Surah not found",
+      "info_search": "Try searching by name or number (e.g., Baqara or 2)"
+    },
+    "quran_view": {
+      "modal_filter_ayah": {
+        "title": "Filter Ayahs",
+        "start_ayah": "Starting Ayah",
+        "info_1_start_ayah": "Please enter the starting ayah",
+        "info_2_start_ayah": "Enter a number ≥ 1",
+        "end_ayah": "Ending Ayah",
+        "clear_filter": "Clear Filters",
+        "apply_filter": "Apply Filters",
+        "showing_count": "Showing selected ayahs"
+      },
+      "copy_all": "Copy Everything",
+      "copy_all_text": "All text has been copied!",
+      "not_found": {
+        "null_ayah": "No ayahs found for this Surah."
+      }
+    }
+  }
+}
