@@ -6,36 +6,42 @@ Selamat datang di rilis resmi FastiQuran untuk Windows. Pilih versi di bawah ini
 
 ## 🪟 Rilis Terbaru
 
-### [1.1.0](#1.1.0)
-
-<a id="1.1.0"></a>
-**Tanggal Rilis:** 16 Juni 2025
-
-- ✅ Dukungan pembaruan otomatis telah ditambahkan
-- 🖥 Kompatibilitas layar DPI tinggi telah ditingkatkan
-- 🐞 Perbaikan bug UI minor
-
-**Unduh:**
-
-- [Installer (.exe)](https://example.com/downloads/windows/fastiquran-1.1.0-setup.exe)
-- [Portable (.zip)](https://example.com/downloads/windows/fastiquran-1.1.0-portable.zip)
-
----
-
-## Versi Sebelumnya
-
 ### [1.0.0](#1.0.0)
 
 <a id="1.0.0"></a>
-**Tanggal Rilis:** 10 Maret 2025
+**Tanggal Rilis: ** 01 Juni 2025
 
 - 🎉 Rilis publik pertama
-- Fitur: Bacaan Al-Quran, dukungan penanda buku, pencarian
+- ✅ Sepenuhnya bebas iklan dan gratis
+- 📖 Teks Alquran lengkap dengan tulisan Arab yang jelas
+- 🔖 Penanda pintar
+- 🔍 Pencarian lanjutan
+- 🎧 Pengulangan audio berkualitas tinggi
+- 🧭 Kompas - Alkitab yang akurat
+- 📿 Koleksi Dhikr & Duas
+- 🎨 Tema & fonta yang dapat disesuaikan
+- ⚙️ Offline-siap dan ringan
 
 **Unduh:**
 
-- [Installer (.exe)](https://example.com/downloads/windows/fastiquran-1.0.0-setup.exe)
+- [.exe](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.0/Fastiquran-x86_64-1.0.0+1-Installer.exe)
 
 ---
 
-Butuh bantuan untuk menginstal di Windows? Kunjungi [Halaman Dukungan](https://flagodna.com/contact).
+## 📜 Versi Sebelumnya
+
+### [0.9.0](#0.9.0)
+
+<a id="0.9.0"></a>
+**Tanggal Rilis:** 15 Mei 2025
+
+- 🛠️ Pembangunan awal
+- Fitur inti:
+  - Tampilan teks Quran
+  - Pemutaran audio dasar
+  - Sistem penanda awal
+  - UI Prototipe
+
+---
+
+Butuh bantuan pemasangan? Kunjungi [Halaman Dukungan] (https://flagodna.com/contact) .

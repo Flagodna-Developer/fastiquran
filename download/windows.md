@@ -6,32 +6,42 @@ Welcome to the official Windows releases of FastiQuran. Choose a version below t
 
 ## 🪟 Latest Release
 
-### [1.1.0](#1.1.0)
-<a id="1.1.0"></a>
-**Release Date:** June 16, 2025
-
-- ✅ Added auto-update support  
-- 🖥 Improved high-DPI screen compatibility  
-- 🐞 Minor UI bug fixes  
-
-**Download:**
-- [Installer (.exe)](https://example.com/downloads/windows/fastiquran-1.1.0-setup.exe)  
-- [Portable (.zip)](https://example.com/downloads/windows/fastiquran-1.1.0-portable.zip)
-
----
-
-## Previous Versions
-
 ### [1.0.0](#1.0.0)
-<a id="1.0.0"></a>
-**Release Date:** March 10, 2025
 
-- 🎉 First public release  
-- Features: Quran recitation, bookmark support, search  
+<a id="1.0.0"></a>
+**Release Date:** June 01, 2025
+
+- 🎉 First public release
+- ✅ Completely ad-free and free of charge
+- 📖 Full Quran text with clear Arabic script
+- 🔖 Smart bookmarks
+- 🔍 Advanced search
+- 🎧 High-quality audio recitations
+- 🧭 Accurate Qibla compass
+- 📿 Dhikr & Duas collection
+- 🎨 Customizable themes & fonts
+- ⚙️ Offline-ready and lightweight
 
 **Download:**
-- [Installer (.exe)](https://example.com/downloads/windows/fastiquran-1.0.0-setup.exe)
+
+- [.exe](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.0/Fastiquran-x86_64-1.0.0+1-Installer.exe)
 
 ---
 
-Need help installing on Windows? Visit the [Support Page](https://flagodna.com/contact).
+## 📜 Previous Versions
+
+### [0.9.0](#0.9.0)
+
+<a id="0.9.0"></a>
+**Release Date:** May 15, 2025
+
+- 🛠️ Initial development build
+- Core features:
+  - Quran text display
+  - Basic audio playback
+  - Early bookmark system
+  - Prototype UI
+
+---
+
+Need help installing? Visit the [Support Page](https://flagodna.com/contact).
