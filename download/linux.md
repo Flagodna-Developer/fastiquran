@@ -6,10 +6,25 @@ Welcome to the official Linux releases of FastiQuran. Choose a version below to 
 
 ## 🚀 Latest Release
 
+<a id="1.0.1"></a>
+**Release Date:** July 04, 2025
+
+- ✅ Fixed Translate
+- ✅ Fixed Quick Action
+- ✅ Fixed Bookmarks
+
+**Download:**
+
+- [.deb](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.1/fastiquran-1.0.1+100001-linux.deb)
+- [.rpm](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.1/fastiquran-1.0.1+100001-linux.rpm)
+- [.appimage](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.1/fastiquran-1.0.1+100001-linux.AppImage)
+
+---
+
 ### [1.0.0](#1.0.0)
 
 <a id="1.0.0"></a>
-**Release Date:** June 01, 2025
+**Release Date:** July 01, 2025
 
 - 🎉 First public release
 - ✅ Completely ad-free and free of charge

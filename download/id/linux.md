@@ -6,10 +6,25 @@ Selamat datang di rilis resmi Linux FastiQuran. Pilih versi di bawah ini untuk m
 
 ## 🚀 Rilis Terbaru
 
+<a id="1.0.1"></a>
+**Tanggal Rilis:** 04 Juli 2025
+
+- ✅ Perbaikan Terjemahan
+- ✅ Perbaikan Tindakan Cepat
+- ✅ Perbaikan Penanda
+
+**Unduh:**
+
+- [.deb](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.1/fastiquran-1.0.1+100001-linux.deb)
+- [.rpm](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.1/fastiquran-1.0.1+100001-linux.rpm)
+- [.appimage](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.1/fastiquran-1.0.1+100001-linux.AppImage)
+
+---
+
 ### [1.0.0](#1.0.0)
 
 <a id="1.0.0"></a>
-**Tanggal Rilis: ** 01 Juni 2025
+**Tanggal Rilis: ** 01 Juli 2025
 
 - 🎉 Rilis publik pertama
 - ✅ Sepenuhnya bebas iklan dan gratis

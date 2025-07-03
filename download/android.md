@@ -6,10 +6,27 @@ Welcome to the official Android releases of **FastiQuran**. Choose a version bel
 
 ## 🚀 Latest Release
 
+### [1.0.1](#1.0.1)
+
+<a id="1.0.1"></a>
+**Release Date:** July 04, 2025
+
+- ✅ Target Android = Android 15 (API 35)
+- ✅ Fixed Internet Error
+- ✅ Fixed Translate
+- ✅ Fixed Quick Action
+- ✅ Fixed Bookmarks
+
+**Download:**
+
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.flagodna.fastiquran)
+
+---
+
 ### [1.0.0](#1.0.0)
 
 <a id="1.0.0"></a>
-**Release Date:** June 01, 2025
+**Release Date:** July 01, 2025
 
 - 🎉 First public release
 - ✅ Completely ad-free and free of charge

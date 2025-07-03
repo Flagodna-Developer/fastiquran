@@ -6,10 +6,27 @@ Selamat datang di Android resmi rilis **FastiQuran**. Pilih versi di bawah ini u
 
 ## 🚀 Rilis Terbaru
 
+### [1.0.1](#1.0.1)
+
+<a id="1.0.1"></a>
+**Tanggal Rilis: ** 04 Juli 2025
+
+- ✅ Target Android = Android 15 (API 35)
+- ✅ Perbaikan Kesalahan Internet
+- ✅ Perbaikan Terjemahan
+- ✅ Perbaikan Tindakan Cepat
+- ✅ Perbaikan Penanda
+
+**Unduh:**
+
+- [Google Play Store] (https://play.google.com/store/apps/details?id=com.flagodna.fastiquran)
+
+---
+
 ### [1.0.0](#1.0.0)
 
 <a id="1.0.0"></a>
-**Tanggal Rilis: ** 01 Juni 2025
+**Tanggal Rilis: ** 01 Juli 2025
 
 - 🎉 Rilis publik pertama
 - ✅ Sepenuhnya bebas iklan dan gratis
