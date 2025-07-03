@@ -16,8 +16,6 @@ FastiQuran **does not**:
 
 ### What We _Might_ Access (And Why, if applicable):
 
-_Please review the points below and **REMOVE ANY THAT DO NOT APPLY to your FastiQuran app**. If your app truly accesses nothing beyond its own internal files and doesn't save anything or download content, you can remove this entire sub-section and state "FastiQuran does not collect any data" more broadly._
-
 - **Local Storage Access**
 
   - **Purpose:** To save user preferences, bookmarks, or notes _locally on your device_ (e.g., last read page, font size settings).

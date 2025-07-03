@@ -39,7 +39,7 @@ By using FastiQuran ("the App"), you agree to these terms. If you disagree with 
 
 ## 6. 🏛️ Governing Law
 
-- These Terms shall be governed by and construed in accordance with the laws of [Your Country/State], without regard to its conflict of law provisions.
+- These Terms shall be governed by and construed in accordance with the laws of [Indonesia], without regard to its conflict of law provisions.
 
 ## 7. ❗ Termination
 
