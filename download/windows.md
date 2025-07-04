@@ -6,6 +6,19 @@ Welcome to the official Windows releases of FastiQuran. Choose a version below t
 
 ## 🪟 Latest Release
 
+<a id="1.0.1"></a>
+**Release Date:** July 04, 2025
+
+- ✅ Fixed Translate
+- ✅ Fixed Quick Action
+- ✅ Fixed Bookmarks
+
+**Download:**
+
+- [.exe](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.1/Fastiquran-x86_64-1.0.1+100001-Installer.exe)
+
+---
+
 ### [1.0.0](#1.0.0)
 
 <a id="1.0.0"></a>

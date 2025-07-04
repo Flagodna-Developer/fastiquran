@@ -6,6 +6,19 @@ Selamat datang di rilis resmi FastiQuran untuk Windows. Pilih versi di bawah ini
 
 ## 🪟 Rilis Terbaru
 
+<a id="1.0.1"></a>
+**Tanggal Rilis:** 04 Juli 2025
+
+- ✅ Perbaikan Terjemahan
+- ✅ Perbaikan Tindakan Cepat
+- ✅ Perbaikan Penanda
+
+**Unduh:**
+
+- [.exe](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.1/Fastiquran-x86_64-1.0.1+100001-Installer.exe)
+
+---
+
 ### [1.0.0](#1.0.0)
 
 <a id="1.0.0"></a>
