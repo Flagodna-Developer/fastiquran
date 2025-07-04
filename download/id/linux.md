@@ -7,6 +7,9 @@ Selamat datang di rilis resmi Linux FastiQuran. Pilih versi di bawah ini untuk m
 ## 🚀 Rilis Terbaru
 
 <a id="1.0.1"></a>
+
+### [1.0.1](#1.0.1)
+
 **Tanggal Rilis:** 04 Juli 2025
 
 - ✅ Perbaikan Terjemahan

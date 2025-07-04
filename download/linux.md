@@ -7,6 +7,9 @@ Welcome to the official Linux releases of FastiQuran. Choose a version below to 
 ## 🚀 Latest Release
 
 <a id="1.0.1"></a>
+
+### [1.0.1](#1.0.1)
+
 **Release Date:** July 04, 2025
 
 - ✅ Fixed Translate
