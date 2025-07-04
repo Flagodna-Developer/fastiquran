@@ -21,7 +21,7 @@ Welcome to the official Android releases of **FastiQuran**. Choose a version bel
 
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.flagodna.fastiquran)
 
----
+## 📜 Previous Versions
 
 ### [1.0.0](#1.0.0)
 
@@ -45,8 +45,6 @@ Welcome to the official Android releases of **FastiQuran**. Choose a version bel
 - [APK (Universal)](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.0/app-release.apk)
 
 ---
-
-## 📜 Previous Versions
 
 ### [0.9.0](#0.9.0)
 

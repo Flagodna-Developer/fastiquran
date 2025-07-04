@@ -19,7 +19,7 @@ Welcome to the official Linux releases of FastiQuran. Choose a version below to 
 - [.rpm](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.1/fastiquran-1.0.1+100001-linux.rpm)
 - [.appimage](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.1/fastiquran-1.0.1+100001-linux.AppImage)
 
----
+## 📜 Previous Versions
 
 ### [1.0.0](#1.0.0)
 
@@ -44,8 +44,6 @@ Welcome to the official Linux releases of FastiQuran. Choose a version below to 
 - [.appimage](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.0/fastiquran-1.0.0+1-linux.AppImage)
 
 ---
-
-## 📜 Previous Versions
 
 ### [0.9.0](#0.9.0)
 

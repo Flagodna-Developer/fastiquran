@@ -21,6 +21,8 @@ Selamat datang di rilis resmi Linux FastiQuran. Pilih versi di bawah ini untuk m
 
 ---
 
+## 📜 Versi Sebelumnya
+
 ### [1.0.0](#1.0.0)
 
 <a id="1.0.0"></a>
@@ -45,8 +47,6 @@ Selamat datang di rilis resmi Linux FastiQuran. Pilih versi di bawah ini untuk m
 - [.appimage](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.0/fastiquran-1.0.0+1-linux.AppImage)
 
 ---
-
-## 📜 Versi Sebelumnya
 
 ### [0.9.0](#0.9.0)
 

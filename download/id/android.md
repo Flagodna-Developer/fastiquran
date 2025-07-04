@@ -21,7 +21,7 @@ Selamat datang di Android resmi rilis **FastiQuran**. Pilih versi di bawah ini u
 
 - [Google Play Store] (https://play.google.com/store/apps/details?id=com.flagodna.fastiquran)
 
----
+## 📜 Versi Sebelumnya
 
 ### [1.0.0](#1.0.0)
 
@@ -45,8 +45,6 @@ Selamat datang di Android resmi rilis **FastiQuran**. Pilih versi di bawah ini u
 - [APK (Universal)] (https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.0/app-release.apk)
 
 ---
-
-## 📜 Versi Sebelumnya
 
 ### [0.9.0](#0.9.0)
 

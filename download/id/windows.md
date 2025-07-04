@@ -19,6 +19,8 @@ Selamat datang di rilis resmi FastiQuran untuk Windows. Pilih versi di bawah ini
 
 ---
 
+## 📜 Versi Sebelumnya
+
 ### [1.0.0](#1.0.0)
 
 <a id="1.0.0"></a>
@@ -40,8 +42,6 @@ Selamat datang di rilis resmi FastiQuran untuk Windows. Pilih versi di bawah ini
 - [.exe](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.0/Fastiquran-x86_64-1.0.0+1-Installer.exe)
 
 ---
-
-## 📜 Versi Sebelumnya
 
 ### [0.9.0](#0.9.0)
 
