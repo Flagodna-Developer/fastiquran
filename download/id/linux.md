@@ -2,6 +2,7 @@
 
 Selamat datang di rilis resmi Linux FastiQuran. Pilih versi di bawah ini untuk mengunduh atau melihat rinciannya.
 
+[![fastiquran](https://snapcraft.io/fastiquran/badge.svg)](https://snapcraft.io/fastiquran)
 ---
 
 ## 🚀 Rilis Terbaru

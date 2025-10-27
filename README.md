@@ -15,6 +15,7 @@ No subscriptions. No pop-ups. No compromises. Just Quran, made for you.
 [![Platform](https://img.shields.io/badge/Platform-Multi--Platform-blue.svg)](https://github.com/Flagodna-Developer/fastiquran)
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Downloads](https://img.shields.io/github/downloads/Flagodna-Developer/fastiquran/total.svg)](https://github.com/Flagodna-Developer/fastiquran/releases)
+[![fastiquran](https://snapcraft.io/fastiquran/badge.svg)](https://snapcraft.io/fastiquran)
 
 ## [![Get it from the Snap Store](https://snapcraft.io/en/dark/install.svg)](https://snapcraft.io/fastiquran)
 

@@ -2,7 +2,7 @@
 
 Welcome to the official Linux releases of FastiQuran. Choose a version below to download or view its details.
 
----
+## [![fastiquran](https://snapcraft.io/fastiquran/badge.svg)](https://snapcraft.io/fastiquran)
 
 ## 🚀 Latest Release
 
