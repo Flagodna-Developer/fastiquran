@@ -16,6 +16,8 @@ No subscriptions. No pop-ups. No compromises. Just Quran, made for you.
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Downloads](https://img.shields.io/github/downloads/Flagodna-Developer/fastiquran/total.svg)](https://github.com/Flagodna-Developer/fastiquran/releases)
 
+## [![Get it from the Snap Store](https://snapcraft.io/en/dark/install.svg)](https://snapcraft.io/fastiquran)
+
 ## 🌟 Welcome to FastiQuran
 
 FastiQuran isn't just a Quran app—it's your spiritual companion. Designed for simplicity and depth, it helps you connect with the Quran effortlessly. Whether you're reading, memorizing, or reflecting, FastiQuran supports every step of your journey.

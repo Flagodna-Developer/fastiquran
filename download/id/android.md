@@ -6,6 +6,22 @@ Selamat datang di Android resmi rilis **FastiQuran**. Pilih versi di bawah ini u
 
 ## 🚀 Rilis Terbaru
 
+**Unduh:**
+
+- [Google Play Store] (https://play.google.com/store/apps/details?id=com.flagodna.fastiquran)
+
+### [1.2.2](#1.2.2)
+
+<a id="1.2.2"></a>
+**Release Date:** 27 Okt, 2025
+
+- ✅ Tautan universal – buka Quran langsung dari browser
+- ✅ Tema hijau segar baru sebagai default
+- ✅ Performa aplikasi lebih cepat dan responsif
+- ✅ Perbaikan masalah penyimpanan ayat
+- ✅ Optimasi memori dan waktu muat
+- ✅ Stabilisasi aplikasi
+
 ### [1.0.1](#1.0.1)
 
 <a id="1.0.1"></a>
@@ -16,12 +32,6 @@ Selamat datang di Android resmi rilis **FastiQuran**. Pilih versi di bawah ini u
 - ✅ Perbaikan Terjemahan
 - ✅ Perbaikan Tindakan Cepat
 - ✅ Perbaikan Penanda
-
-**Unduh:**
-
-- [Google Play Store] (https://play.google.com/store/apps/details?id=com.flagodna.fastiquran)
-
-## 📜 Versi Sebelumnya
 
 ### [1.0.0](#1.0.0)
 

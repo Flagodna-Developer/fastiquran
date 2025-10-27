@@ -6,6 +6,24 @@ Welcome to the official Linux releases of FastiQuran. Choose a version below to 
 
 ## 🚀 Latest Release
 
+<a id="1.2.2"></a>
+
+### [1.2.2](#1.2.2)
+
+**Release Date:** Oct 27, 2025
+
+- ✅ Universal Links support – open Quran directly from browsers
+- ✅ Fresh green theme set as new default
+- ✅ Better app performance and responsiveness
+- ✅ Fixed inconsistent ayah saving issues
+- ✅ Memory optimization and faster loading
+- ✅ Overall app stabilization
+
+**Download:**
+
+- [.deb](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.2.2/fastiquran-1.2.2+100202-linux.deb)
+- [.appimage](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.2.2/fastiquran-1.2.2+100202-linux.AppImage)
+
 <a id="1.0.1"></a>
 
 ### [1.0.1](#1.0.1)
@@ -21,8 +39,6 @@ Welcome to the official Linux releases of FastiQuran. Choose a version below to 
 - [.deb](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.1/fastiquran-1.0.1+100001-linux.deb)
 - [.rpm](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.1/fastiquran-1.0.1+100001-linux.rpm)
 - [.appimage](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.1/fastiquran-1.0.1+100001-linux.AppImage)
-
-## 📜 Previous Versions
 
 ### [1.0.0](#1.0.0)
 

@@ -6,6 +6,24 @@ Selamat datang di rilis resmi Linux FastiQuran. Pilih versi di bawah ini untuk m
 
 ## 🚀 Rilis Terbaru
 
+<a id="1.2.2"></a>
+
+### [1.2.2](#1.2.2)
+
+**Release Date:** 27 Okt, 2025
+
+- ✅ Tautan universal – buka Quran langsung dari browser
+- ✅ Tema hijau segar baru sebagai default
+- ✅ Performa aplikasi lebih cepat dan responsif
+- ✅ Perbaikan masalah penyimpanan ayat
+- ✅ Optimasi memori dan waktu muat
+- ✅ Stabilisasi aplikasi
+
+**Download:**
+
+- [.deb](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.2.2/fastiquran-1.2.2+100202-linux.deb)
+- [.appimage](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.2.2/fastiquran-1.2.2+100202-linux.AppImage)
+
 <a id="1.0.1"></a>
 
 ### [1.0.1](#1.0.1)

@@ -6,6 +6,22 @@ Welcome to the official Android releases of **FastiQuran**. Choose a version bel
 
 ## 🚀 Latest Release
 
+**Download:**
+
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.flagodna.fastiquran)
+
+### [1.2.2](#1.2.2)
+
+<a id="1.2.2"></a>
+**Release Date:** Oct 27, 2025
+
+- ✅ Universal Links support – open Quran directly from browsers
+- ✅ Fresh green theme set as new default
+- ✅ Better app performance and responsiveness
+- ✅ Fixed inconsistent ayah saving issues
+- ✅ Memory optimization and faster loading
+- ✅ Overall app stabilization
+
 ### [1.0.1](#1.0.1)
 
 <a id="1.0.1"></a>
@@ -16,12 +32,6 @@ Welcome to the official Android releases of **FastiQuran**. Choose a version bel
 - ✅ Fixed Translate
 - ✅ Fixed Quick Action
 - ✅ Fixed Bookmarks
-
-**Download:**
-
-- [Google Play Store](https://play.google.com/store/apps/details?id=com.flagodna.fastiquran)
-
-## 📜 Previous Versions
 
 ### [1.0.0](#1.0.0)
 
