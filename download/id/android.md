@@ -2,13 +2,27 @@
 
 Selamat datang di Android resmi rilis **FastiQuran**. Pilih versi di bawah ini untuk mengunduh atau melihat rinciannya.
 
----
-
-## 🚀 Rilis Terbaru
+### 🎉 Rilis Terbaru
 
 **Unduh:**
 
-- [Google Play Store] (https://play.google.com/store/apps/details?id=com.flagodna.fastiquran)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.flagodna.fastiquran)
+
+### 📦 APK Legacy dari ABI (Android 5 – 7.1)
+
+Untuk perangkat lama, gunakan APK yang sesuai dengan arsitektur CPU perangkat Anda. Ini adalah **versi lama** dan mungkin tidak menyertakan fitur atau pembaruan terbaru.
+
+| ABI         | Versi Android | Unduh          |
+| ----------- | ------------- | -------------- |
+| armeabi-v7a | 5.0 – 7.1     | [Unduh APK](#) |
+| arm64-v8a   | 5.0 – 7.1     | [Unduh APK](#) |
+| x86_64      | 5.0 – 7.1     | [Unduh APK](#) |
+
+> ⚠️ **Perhatian:** APK lama ini ditujukan untuk perangkat lama. Untuk versi Android yang lebih baru dan pembaruan otomatis, gunakan versi Google Play.
+
+---
+
+## 🚀 Pembaruan
 
 ### [1.2.2](#1.2.2)
 
@@ -51,8 +65,8 @@ Selamat datang di Android resmi rilis **FastiQuran**. Pilih versi di bawah ini u
 
 **Unduh:**
 
-- [Google Play Store] (https://play.google.com/store/apps/details?id=com.flagodna.fastiquran)
-- [APK (Universal)] (https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.0/app-release.apk)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.flagodna.fastiquran)
+- [APK (Universal)](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.0.0/app-release.apk)
 
 ---
 

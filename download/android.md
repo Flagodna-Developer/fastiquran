@@ -2,13 +2,27 @@
 
 Welcome to the official Android releases of **FastiQuran**. Choose a version below to download or view its details.
 
----
-
-## 🚀 Latest Release
+### 🎉 Google Play Store
 
 **Download:**
 
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.flagodna.fastiquran)
+
+### 📦 Legacy APKs by ABI (Android 5 – 7.1)
+
+For older devices, use the APK matching your device's CPU architecture. These are **legacy versions** and may not include the latest features or updates.
+
+| ABI         | Android Version | Download          |
+| ----------- | --------------- | ----------------- |
+| armeabi-v7a | 5.0 – 7.1       | [Download APK](#) |
+| arm64-v8a   | 5.0 – 7.1       | [Download APK](#) |
+| x86_64      | 5.0 – 7.1       | [Download APK](#) |
+
+> ⚠️ **Notice:** These legacy APKs are intended for older devices. For newer Android versions and automatic updates, use the Google Play version.
+
+---
+
+## 🚀 Changelogs
 
 ### [1.2.2](#1.2.2)
 

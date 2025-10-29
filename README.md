@@ -27,13 +27,14 @@ FastiQuran isn't just a Quran app—it's your spiritual companion. Designed for 
 
 FastiQuran is available across all major platforms:
 
-| Platform       | Download                                                                             | Requirements  |
-| -------------- | ------------------------------------------------------------------------------------ | ------------- |
-| 🖥️ **Windows** | [Download](https://flagodna-developer.github.io/fastiquran/download/windows)         | Windows 10+   |
-| 🍎 **macOS**   | On-progress                                                                          | macOS 10.15+  |
-| 🐧 **Linux**   | [Download](https://flagodna-developer.github.io/fastiquran/download/linux)           | Ubuntu 18.04+ |
-| 📱 **Android** | [Google Play](https://play.google.com/store/apps/details?id=com.flagodna.fastiquran) | Android 6.0+  |
-| 🍎 **iOS**     | On-progress                                                                          | iOS 12.0+     |
+| Platform       | Download                                                                             | Requirements    |
+| -------------- | ------------------------------------------------------------------------------------ | --------------- |
+| 🖥️ **Windows** | [Download](https://flagodna-developer.github.io/fastiquran/download/windows)         | Windows 10+     |
+| 🍎 **macOS**   | On-progress                                                                          | macOS 10.15+    |
+| 🐧 **Linux**   | [Download](https://flagodna-developer.github.io/fastiquran/download/linux)           | Ubuntu 18.04+   |
+| 📱 **Android** | [Google Play](https://play.google.com/store/apps/details?id=com.flagodna.fastiquran) | Android 7.0+    |
+| 📱 **Android** | [File apk](https://flagodna-developer.github.io/fastiquran/download/android)         | Android 5.0-7.1 |
+| 🍎 **iOS**     | On-progress                                                                          | iOS 12.0+       |
 
 ## ✨ Why You'll Love It
 
