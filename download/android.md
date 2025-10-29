@@ -12,11 +12,11 @@ Welcome to the official Android releases of **FastiQuran**. Choose a version bel
 
 For older devices, use the APK matching your device's CPU architecture. These are **legacy versions** and may not include the latest features or updates.
 
-| ABI         | Android Version | Download          |
-| ----------- | --------------- | ----------------- |
-| armeabi-v7a | 5.0 – 7.1       | [Download APK](#) |
-| arm64-v8a   | 5.0 – 7.1       | [Download APK](#) |
-| x86_64      | 5.0 – 7.1       | [Download APK](#) |
+| ABI         | Android Version | Download                                                                                                              |
+| ----------- | --------------- | --------------------------------------------------------------------------------------------------------------------- |
+| armeabi-v7a | 5.0 – 7.1       | [Download APK](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.2.2/app-armeabi-v7a-release.apk) |
+| arm64-v8a   | 5.0 – 7.1       | [Download APK](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.2.2/app-arm64-v8a-release.apk)   |
+| x86_64      | 5.0 – 7.1       | [Download APK](https://github.com/Flagodna-Developer/fastiquran/releases/download/v1.2.2/app-x86_64-release.apk)      |
 
 > ⚠️ **Notice:** These legacy APKs are intended for older devices. For newer Android versions and automatic updates, use the Google Play version.
 
